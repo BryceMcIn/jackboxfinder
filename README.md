@@ -8,3 +8,5 @@ A script to generate and test room codes for jackbox games
 # Todo
 - Make asyncronous to find valid roomcodes faster
 - Strings library not needed. Will remove
+- Print if the game is in progress or not
+- Print if the game is joinable or not
